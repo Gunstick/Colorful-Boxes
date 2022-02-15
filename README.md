@@ -1,7 +1,7 @@
 # Colorful Boxes in 12 instructions
 by Gunstick / Unlimited Matricks
-winner in the 32 bytes category of LoveByte 2022 party
-https://demozoo.org/productions/305562/
+
+winner in the 32 bytes category of LoveByte 2022 party https://demozoo.org/productions/305562/
 
 for AtariST(E) 
 
