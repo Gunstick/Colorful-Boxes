@@ -7,4 +7,4 @@ for AtariST(E)
 
 One 68k instruction takes always 2 bytes at least
 
-[/assets/screenshot-colbox12.png]
+![/assets/screenshot-colbox12.png]
