@@ -7,4 +7,4 @@ for AtariST(E)
 
 One 68k instruction takes always 2 bytes at least
 
-![colored checkeboard](/assets/screenshot-colbox12.png)
+![colored checkerboard](https://github.com/Gunstick/Colorful-Boxes/raw/main/screenshot-colbox12.png)
